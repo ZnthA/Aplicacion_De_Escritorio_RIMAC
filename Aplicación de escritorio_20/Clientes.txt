@@ -1,0 +1,6 @@
+76014559,Zinthia,Delgado Gomez,zinthia@gmail.com,San Juan dde Miraflores,970759863
+78381656,Luis,Gonzales Paz,luis@gmail.com,Santa Anita,996151537
+1,1,1,1,1,1
+08381656,Sofia ,Gutierrez Flores,sofia@gamil.com,Surco,998524339
+12345678,Lucia,Fernadez Benavides,lucy@gmail.com,Cañete,993697824
+77895412,Juan ,Prada,juan@gmail.com,La molina,123456789
